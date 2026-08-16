@@ -5,12 +5,21 @@ title: Home
 
 # Active-Directory-Lab Progress Tracker
 
-Welcome to my lab journal. Here I track my daily progress, configurations, and troubleshooting notes while building out my Active Directory environment.
+Welcome to my lab journal. Here I track my daily progress, configurations, and troubleshooting notes while building out my Active Directory environment. Mainly follwing Jake's Tech Labs
 
-## Lab Architecture
-* **Domain Controller:** Windows Server 2022 (AD DS, DNS)
-* **Client Machines:** Windows 10 Pro joined to the domain
-* **Attack Box:** Kali Linux
+## Lab Steps
+* Overview
+* Azure VM
+* Install AD DS
+* Promote to DC
+* AD Structure
+* Users
+* Groups
+* Client Join
+* Test Login
+* Bonus Tasks
+* Cleanup
+* Troubleshooting
 
 ## Latest Updates
-* **[Date]** - Initialized lab network configuration and static IPs.
+* **16/08/2026** - Initialized lab on GitHub pages.
